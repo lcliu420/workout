@@ -41,6 +41,13 @@ Post-Activation Potentiation (PAP): refers to a short-term improvement in perfor
 
 ## 2 有关饮食
 
+### 2.1 吃鸡蛋
+
+[参考文献: The Effect of Whole Egg Intake on Muscle Mass: Are the Yolk and Its Nutrients Important?](https://pubmed.ncbi.nlm.nih.gov/34504041/)
+
+> 1. yolk (n.) 蛋黄
+> 2. comprise (v.) 包括
+
 ## X 有关休息
 
 ### X.1 组间歇
@@ -64,7 +71,13 @@ Post-Activation Potentiation (PAP): refers to a short-term improvement in perfor
 2. In terms of **chronic adaptations**, resting **3-5 minutes** between sets produced greater increases in absolute strength, due to higher intensities and volumes of training. 
 3. When the training goal is **muscular hypertrophy**, the combination of moderate-intensity sets with short rest intervals of **30-60 seconds** might be most effective due to greater acute levels of growth hormone during such workouts.
 
-### X.2 
+### X.2 恢复训练
+
+**Conclusion**
+
+1. 合理安排运动周期
+2. 有效规避疲劳，拉长组间休息
+3. 动作以闭链为主，深蹲、卧推、硬拉、引体、双杠臂屈伸等
 
 
 
