@@ -37,7 +37,14 @@ Post-Activation Potentiation (PAP): refers to a short-term improvement in perfor
 
 **短跑运动员**
 
+### 2.3 山羊挺身
 
+**benifit:** 对单脚起跳和跑步速度有提升
+
+**step**
+
+1. 以髋为轴, 腰保持中立
+2. 腘绳肌有拉伸感和发力感
 
 ## 2 有关饮食
 
@@ -48,9 +55,17 @@ Post-Activation Potentiation (PAP): refers to a short-term improvement in perfor
 > 1. yolk (n.) 蛋黄
 > 2. comprise (v.) 包括
 
-## X 有关休息
+## 3 有关活动度
 
-### X.1 组间歇
+### 3.1 屈膝活动度
+
+[参考视频: 脚跟碰不到屁股, 都要练这个动作](https://www.bilibili.com/video/BV1Rg4y1c7J8/?spm_id_from=333.999.0.0&vd_source=12bffefa5d42bc58bf47c962294d9bed)
+
+反向北欧挺
+
+## 4 有关休息
+
+### 4.1 组间歇
 
 [参考文献: Rest interval between sets in strength training.](https://pubmed.ncbi.nlm.nih.gov/19691365/)
 
@@ -71,7 +86,7 @@ Post-Activation Potentiation (PAP): refers to a short-term improvement in perfor
 2. In terms of **chronic adaptations**, resting **3-5 minutes** between sets produced greater increases in absolute strength, due to higher intensities and volumes of training. 
 3. When the training goal is **muscular hypertrophy**, the combination of moderate-intensity sets with short rest intervals of **30-60 seconds** might be most effective due to greater acute levels of growth hormone during such workouts.
 
-### X.2 恢复训练
+### 4.2 恢复训练
 
 **Conclusion**
 
@@ -79,5 +94,29 @@ Post-Activation Potentiation (PAP): refers to a short-term improvement in perfor
 2. 有效规避疲劳，拉长组间休息
 3. 动作以闭链为主，深蹲、卧推、硬拉、引体、双杠臂屈伸等
 
+### 4.3 补水
 
+[参考视频: 夏日运动疲软无力？水可能没喝够，补水指南来了](https://www.bilibili.com/video/BV1ye4y1f7C9/?spm_id_from=333.999.0.0&vd_source=12bffefa5d42bc58bf47c962294d9bed)
+
+- 判断身体是否脱水
+
+  1. 看尿液的颜色<img src="assets/image-20240322141520458.png" alt="image-20240322141520458" style="zoom:50%;" />
+  2. 测量流汗的量
+
+- 防止脱水
+
+  > 体重减少2%(1.5L)或者更多会引发急性脱水
+
+## 5 有关学术知识
+
+### 5.1 Action Potential 动作电位
+
+- WIKIPEDIA
+  [Action Potential](https://en.wikipedia.org/wiki/Action_potential)
+  [动作电位](https://zh.wikipedia.org/wiki/%E5%8A%A8%E4%BD%9C%E7%94%B5%E4%BD%8D)
+
+### 5.2 Strech-Shortening Cycle(SSC)
+
+- WIKIPEDIA
+- 
 
