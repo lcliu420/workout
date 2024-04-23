@@ -37,7 +37,7 @@ Post-Activation Potentiation (PAP): refers to a short-term improvement in perfor
 
 **短跑运动员**
 
-### 2.3 山羊挺身
+### 1.3 山羊挺身
 
 **benifit:** 对单脚起跳和跑步速度有提升
 
@@ -118,5 +118,24 @@ Post-Activation Potentiation (PAP): refers to a short-term improvement in perfor
 ### 5.2 Strech-Shortening Cycle(SSC)
 
 - WIKIPEDIA
-- 
 
+### 5.3 Hypertrophy肌肥大训练
+
+[参考文献: Resistance Training Variables for Optimization of Muscle Hypertrophy: An Umbrella Review](https://www.frontiersin.org/articles/10.3389/fspor.2022.949021/full)
+
+[参考视频: 怎么都练不大？增肌没效果？这个视频对你一定有帮助 22年肌肥大研究伞式分析讨论](https://www.bilibili.com/video/BV1jP4y1Z7jY/?spm_id_from=333.999.0.0&vd_source=12bffefa5d42bc58bf47c962294d9bed)
+
+> 1. eccentric contraction 离心收缩
+> 2. criteria n. (评判或做决定的)标准 
+>    inclusion criteria 纳入标准
+> 3. meta-analyse 荟萃分析
+> 4. magnitude n. 巨大
+>    magnitude of sth. XXX的量级
+> 5. frontiers n. 尖端科学
+
+**Conclusion**
+
+1. At least **10 sets per week per muscle group** is optimal
+2. **Eccentric contractions** seem important, very slow repetitions (≥10 s) should be avoided
+3. **Blood flow restriction** might be beneficial for some individuals
+4. Other variables as, exercise order, time of the day and type of periodization appear **not** to directly influence the magnitude of muscle mass gains.
